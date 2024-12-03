@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SHREEPATI
-- 👀 I’m interested in ... Programming and DevOps, Cloud Engineer
+- 👀 I’m interested in ... Programming and Data Science, AWS, Linux, Java, Data Analytics
 - 🌱 I’m currently learning ... BCA
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... shreepatigaonkar9@gmail.com
